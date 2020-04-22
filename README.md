@@ -1,6 +1,8 @@
 # JavaScript Application
 
 * This repository has an `array` of airline `object`s. Each airline has a name and a logoUrl.
+* Open `index.html` in your browser
+* Open the developer console, and type in `airlines` to see your array of airlines
 
 ### Deliverables
 * List of Airlines
